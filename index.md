@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Christmas Ghosts: "The Mystery of Montmartre" by William Le Queux
+title: "The Mystery of Montmartre" by William Le Queux
 
 # The homepage template includes title, banner image, and short description. 
 # Edit these in `_config.yml`, not in this file.
