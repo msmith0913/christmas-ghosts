@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Digital Edition Template by the Recovery Hub for American Women Writers
+title: Christmas Ghosts: "The Mystery of Montmartre" by William Le Queux
 
 # The homepage template includes title, banner image, and short description. 
 # Edit these in `_config.yml`, not in this file.
@@ -23,11 +23,4 @@ title: Digital Edition Template by the Recovery Hub for American Women Writers
 
 ---
 
-This is the `index.md` file, where you can add more information to your homepage
-after the banner image, page title, and short description.
-
-## Important note about headings
-
-This page layout has a Heading 1 built in, so if you create headings in this 
-file, start with Heading level 2. See comments in the frontmatter/metadata of 
-this `index.md` file for more information.
+[Read "The Mystery of Montmartre"](https://msmith0913.github.io/christmas-ghosts/items/lequeux_montmartre.md)
