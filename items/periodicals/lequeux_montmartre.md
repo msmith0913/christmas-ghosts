@@ -4,7 +4,7 @@ title: The Mystery of Montmartre
 permalink: mystery-of-montmartre
 
 # Metadata
-category: none
+category: periodicals
 
 ## Source Metadata
 author: William Le Queux
