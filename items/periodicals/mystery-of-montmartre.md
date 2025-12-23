@@ -33,7 +33,8 @@ Christmas! Chrsitmas [sic] here again. Mention of the feast stirs my memory and 
 In those days I was one of a crowd of reckless law students who lived high up in those dingy houses in the Rue Cassette.[^ref2] Three of us lived together in those rickety dirt-begrimed rooms on the fifth floor in the Rue Cassette—No. 11, to be exact. The names of my companions were Fremont and Duqusne [sic].
 
 ![A photo of a narrow street lined with tall buildings](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/rue_cassette.jpg "Rue Cassette, photo by Wikimedia user Chabe01, https://commons.wikimedia.org/wiki/File:Rue_Cassette_Paris_2.jpg")
-<span style="font-size:0.5em;"><i>The Rue Cassette in Paris (<a href="https://commons.wikimedia.org/wiki/File:Rue_Cassette_Paris_2.jpg">photo by Wikimedia user Chabe01</a>) </i></span>
+
+<span style="font-size:0.75em;"><i>The Rue Cassette in Paris (<a href="https://commons.wikimedia.org/wiki/File:Rue_Cassette_Paris_2.jpg">photo by Wikimedia user Chabe01</a>) </i></span>
 
 This record of adventure, however, mainly concerns another. That other was Pierrette,[^ref3] the dark-eyed, neat-ankled modiste employed at Carlier’s atelier in the Rue-de-la-Paix.
 
@@ -88,7 +89,8 @@ The sight which met my eyes was so startling that I held my breath.
 The room was a large one, flagged with stones. On the latter had been taken up and revealed an open grave. Four evil-looking ruffians were there, while upon the floor, wrapped in coarse sacking, lay a body ready for interment. Two smoking lamps threw their uncertain light upon the scene. These men were getting rid of the evidence of some terrible midnight crime! As I watched, one of the ruffians, a fellow in the peaked cap of the Montmartre, emptied a sackful of quicklime into the grave, and then all four raised the body and carried it forward.
 
 ![A sketch illustrating the scene, printed in the newspaper. Two men throw a wrapped body into a grave, supervised by another, while a fourth man shouts.](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/illustration.png "Illustration from William Le Queux, "The Mystery of Montmartre," *St. Louis Post-Dispatch*")
-<span style="font-size:0.5em;"><i>Illustration from William Le Queux, "The Mystery of Montmartre,"</i> St. Louis Post-Dispatch</span>
+
+<span style="font-size:0.75em;"><i>Illustration from William Le Queux, "The Mystery of Montmartre,"</i> St. Louis Post-Dispatch</span>
 
 Beneath the sacking I fancied I detected a movement, and of a sudden a hand was thrust forth. 
 
@@ -119,7 +121,8 @@ I had been caught like a rat in a trap. At any moment my captors could drown me 
 I listened. Yes: the sound I heard was the low lapping of water upon the will. Then I guessed the truth. I was imprisoned in one of the flushing chambers of the sewers. A touch of that rusted iron lever from above and I would be swept into eternity. 
 
 ![A 19th century, sepia-toned photo of the Paris sewers, a brick-lined tunnel](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/nadar_sewer.jpg "Félix Nadar, Égouts Paris France, éclusée n°2, ca. 1864-5")
-<span style="font-size:0.5em;"><i>The Paris sewers (photo by Félix Nadar, Égouts Paris France, éclusée n°2, ca. 1864-5, Bibliothèque nationale de France)</i></span>
+
+<span style="font-size:0.75em;"><i>The Paris sewers (photo by Félix Nadar, Égouts Paris France, éclusée n°2, ca. 1864-5, Bibliothèque nationale de France)</i></span>
 
 Moments passed, each seeming a full hour. To devise some means of escape racked my brain. And all the time lying there in full view was the ghastly head of my murdered love.
 
@@ -182,7 +185,8 @@ Having sat there half an hour, one of my companions—they were three respectabl
 In all my wanderings I had never entered there because of a superstitious horror which I cannot explain. Nevertheless, we went, passing through the demon’s gorge into a dimly lit cavern, the black walls of which were covered with creeping, scaly monsters, where in a great cooking pot three of the devil’s angels were playing guitars, while a devil in Mephistophelian garb handed us to seat at an illuminated table of green glass which rendered our countenances pallid as death.
 
 ![An early 20th-century, black and white photo of the exterior of the Cabaret de l'Enfer. The door is the mouth of a giant demon, and the rest of the wall is covered with stalagmites and the tormented bodies of sinners](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/cabaret_enfer.jpg "Eugène Atget, "Cabaret de L'Enfer : Bd de Clichy", ca. 1910-12")
-<span style="font-size:0.5em;"><i>The Cabaret of Hell (photo by Eugène Atget, "Cabaret de L'Enfer : Bd de Clichy", ca. 1910-12, Bibliothèque nationale de France)</i></span>
+
+<span style="font-size:0.75em;"><i>The Cabaret of Hell (photo by Eugène Atget, "Cabaret de L'Enfer : Bd de Clichy", ca. 1910-12, Bibliothèque nationale de France)</i></span>
 
 “Avancez, belles impures!” cried the demon to some ladies. “Assavez vous, charmantes pecheresses, vous serez flambees d’un cote comme de l’autres.”
 
@@ -203,7 +207,8 @@ Her face was the same sweet, angelic countenance that it had been ten years befo
 I pressed forward to the man who called himself Satan, called him aside and demanded an interview with her.
 
 ![An early 20th-century, black and white photo of Antonin Alexander in the role of Mephistopheles (or as Le Queux describes him, Satan). He wears horns on his head, an opulent cape, and lots of velvet.](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/satan.jpg "Antonin Alexander dans le rôle de Méphisto au Cabaret de l'Enfer")
-<span style="font-size:0.5em;"><i>Antonin Alexander dans le rôle de Méphisto au Cabaret de l'Enfer (photographer unknown, <a href="https://en.wikipedia.org/wiki/File:Antonin_Alexander.jpg">Wikimedia Commons</a>)</i></span>
+
+<span style="font-size:0.75em;"><i>Antonin Alexander dans le rôle de Méphisto au Cabaret de l'Enfer (photographer unknown, <a href="https://en.wikipedia.org/wiki/File:Antonin_Alexander.jpg">Wikimedia Commons</a>)</i></span>
 
 “Ah! Monsieur,” he laughed, “I fear that is quite impossible.”
 
