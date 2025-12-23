@@ -259,10 +259,11 @@ Today any visitor to the “Carabet [sic] de l’Enfer” may see the reflection
 [^ref8]: Both of these attractions were features at the Paris Exposition, the 1900 world's fair.
 [^ref9]: The [*bals musette*](https://www.frosinisociety.org/Blogs/TheBalsMusette.html) were popular music halls that primarily featured accordion music like polkas and waltzes.
 [^ref10]: These are all real cabarets operating in fin de siècle Paris. 
-* cabarets of Bruant: [Aristide Bruant](https://www.artic.edu/artworks/67172/aristide-bruant-in-his-cabaret) performed a sort of stand-up, lampooning wealthy Parisians who attended his show
-* Les Quatr-z-Arts: Properly the [Cabaret des Quat-z-Arts](https://en.wikipedia.org/wiki/Cabaret_des_Quat%27z%27Arts), this was a multi-medium exhibition space. The "four arts" were architecture, printmaking, painting, and sculpture.
-* Le Treteau de Tabarin: [Tabarin's trestle](https://fr.wikipedia.org/wiki/Tr%C3%A9teau_de_Tabarin), founded in 1895 next door to Le Chat Noir
-* Cabaret of Death: actually [three cabarets](https://thereader.mitpress.mit.edu/inside-the-death-themed-cabaret-of-nothingness/), each with a different theme - heaven, hell, and nothingness
-* tribunal comique at Le Carillon: Le Carillon was another artistic cabaret. The idea of the *tribunal comique* or mock trial might be familiar if you've watched *Interview with the Vampire*.
-* the bal-musette in the Rue Coustou: [André Warnod's 1922 *Les bals de Paris*](https://www.paris-anecdote.fr/les-anciens-bals-de-montmartre/) seconds Le Queux's description of the Rue Coustou *bal* as having a *réputation déplorable et méritée*.
-* the Dead Rat: the nickname for [Café Pigalle](https://www.myfrenchlife.org/p/montmartres-old-hangouts-le-rat-mort)
+<ol>
+<li> cabarets of Bruant: [Aristide Bruant](https://www.artic.edu/artworks/67172/aristide-bruant-in-his-cabaret) performed a sort of stand-up, lampooning wealthy Parisians who attended his show</li>
+<li> Les Quatr-z-Arts: Properly the [Cabaret des Quat-z-Arts](https://en.wikipedia.org/wiki/Cabaret_des_Quat%27z%27Arts), this was a multi-medium exhibition space. The "four arts" were architecture, printmaking, painting, and sculpture.</li>
+<li> Le Treteau de Tabarin: [Tabarin's trestle](https://fr.wikipedia.org/wiki/Tr%C3%A9teau_de_Tabarin), founded in 1895 next door to Le Chat Noir</li>
+<li> Cabaret of Death: actually [three cabarets](https://thereader.mitpress.mit.edu/inside-the-death-themed-cabaret-of-nothingness/), each with a different theme - heaven, hell, and nothingness</li>
+<li> tribunal comique at Le Carillon: Le Carillon was another artistic cabaret. The idea of the *tribunal comique* or mock trial might be familiar if you've watched *Interview with the Vampire*.</li>
+<li> the bal-musette in the Rue Coustou: [André Warnod's 1922 *Les bals de Paris*](https://www.paris-anecdote.fr/les-anciens-bals-de-montmartre/) seconds Le Queux's description of the Rue Coustou *bal* as having a *réputation déplorable et méritée*.</li>
+<li> the Dead Rat: the nickname for [Café Pigalle](https://www.myfrenchlife.org/p/montmartres-old-hangouts-le-rat-mort)</li></ol>
