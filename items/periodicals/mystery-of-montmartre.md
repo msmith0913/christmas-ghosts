@@ -86,7 +86,7 @@ The sight which met my eyes was so startling that I held my breath.
 
 The room was a large one, flagged with stones. On the latter had been taken up and revealed an open grave. Four evil-looking ruffians were there, while upon the floor, wrapped in coarse sacking, lay a body ready for interment. Two smoking lamps threw their uncertain light upon the scene. These men were getting rid of the evidence of some terrible midnight crime! As I watched, one of the ruffians, a fellow in the peaked cap of the Montmartre, emptied a sackful of quicklime into the grave, and then all four raised the body and carried it forward.
 
-![A sketch illustrating the scene, printed in the newspaper. Two men throw a wrapped body into a grave, supervised by another, while a fourth man shouts.](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/illustration.jpg "Illustration from William Le Queux, "The Mystery of Montmartre," *St. Louis Post-Dispatch*")
+![A sketch illustrating the scene, printed in the newspaper. Two men throw a wrapped body into a grave, supervised by another, while a fourth man shouts.](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/illustration.png "Illustration from William Le Queux, "The Mystery of Montmartre," *St. Louis Post-Dispatch*")
 
 Beneath the sacking I fancied I detected a movement, and of a sudden a hand was thrust forth. 
 
